@@ -14,14 +14,13 @@ You will find a variable named key: insert your key between the quotes.
 
 ## How to build
 
-Compile with cmake:
+Clone and compile with cmake:
 ```sh
+git clone https://github.com/LukeRPi/xor_otp_encrypt.git
+cd xor_otp_encrypt
 mkdir build
-
 cd build
-
 cmake ..
-
 make
 ```
 
