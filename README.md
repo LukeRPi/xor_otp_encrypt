@@ -10,7 +10,9 @@ This software comes with ABSOLUTELY NO WARRANTY and it isn’t safe to use if yo
 
 Visit [this site](https://freeotp.github.io/qrcode.html) and generate an OTP key.
 
-You will find a variable named key: insert your key between the quotes.
+In the file encrypt.cpp you will find a variable named key: insert your key between the quotes.
+
+You can use an OTP app, such as Google Authenticator ([iOS](https://apps.apple.com/it/app/google-authenticator/id388497605) and [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)) on your phone to validate the OTP request on your PC.
 
 ## How to build
 
