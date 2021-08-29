@@ -1,6 +1,3 @@
-# The contents of this file have been placed into the public domain; see the
-# file COPYING for more details.
-
 cmake_minimum_required (VERSION 2.6)
 project (CppOtp)
 

@@ -3,8 +3,6 @@
  *
  * @brief One-time-password-related functions.
  *
- * @copyright The contents of this file have been placed into the public domain;
- * see the file COPYING for more details.
  */
 
 #ifndef __CPPTOTP_OTP_H__

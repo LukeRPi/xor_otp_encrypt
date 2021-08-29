@@ -3,8 +3,6 @@
  *
  * @brief The SHA-1 hash function.
  *
- * @copyright The contents of this file have been placed into the public domain;
- * see the file COPYING for more details.
  */
 
 #ifndef __CPPTOTP_SHA1_H__
